@@ -93,9 +93,13 @@ Recommended (what we run):
 
 ## License
 
-AGPL-3.0 — See [LICENSE](LICENSE)
+**Source-Available** — See [LICENSE](LICENSE)
 
-If you modify this code and run it as a network service, you must make your source code available.
+This code is published for transparency, security auditing, and educational purposes. You may read, inspect, and audit the code freely.
+
+**You may NOT** use this code commercially, host it as a service, or redistribute it without written permission from Oblivion Technologies LLC.
+
+For commercial licensing inquiries: admin@oblivionzone.com
 
 The "OBLIVION" name and logo are trademarks of Oblivion Technologies LLC.
 

@@ -1,23 +1,92 @@
-GNU AFFERO GENERAL PUBLIC LICENSE
-Version 3, 19 November 2007
+OBLIVION Source-Available License
+Version 1.0, March 2026
 
-Copyright (C) 2026 Oblivion Technologies LLC
+Copyright (C) 2026 Oblivion Technologies LLC. All rights reserved.
 
-This program is free software: you can redistribute it and/or modify
-it under the terms of the GNU Affero General Public License as published
-by the Free Software Foundation, either version 3 of the License, or
-(at your option) any later version.
+TERMS AND CONDITIONS
 
-This program is distributed in the hope that it will be useful,
-but WITHOUT ANY WARRANTY; without even the implied warranty of
-MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
-GNU Affero General Public License for more details.
+1. DEFINITIONS
 
-You should have received a copy of the GNU Affero General Public License
-along with this program. If not, see <https://www.gnu.org/licenses/>.
+   "Software" means the source code, documentation, and associated files
+   in this repository.
 
-Additional terms:
-- If you modify this program and run it as a network service, you must
-  make your modified source code available to users of that service.
-- The "OBLIVION" name and logo are trademarks of Oblivion Technologies LLC
-  and may not be used without permission.
+   "Licensor" means Oblivion Technologies LLC.
+
+   "You" means the individual or entity exercising the rights granted
+   under this License.
+
+2. GRANT OF RIGHTS
+
+   Subject to the terms of this License, the Licensor grants You a
+   non-exclusive, worldwide, royalty-free right to:
+
+   a) VIEW and READ the source code for inspection, security auditing,
+      and educational purposes.
+
+   b) MODIFY the source code for personal, non-commercial use only.
+
+   c) SUBMIT bug reports, security vulnerabilities, and improvement
+      suggestions to the Licensor.
+
+   d) RUN the Software for personal, non-commercial evaluation purposes
+      on your own hardware.
+
+3. RESTRICTIONS
+
+   You may NOT, without prior written permission from the Licensor:
+
+   a) Use the Software or any derivative work for any COMMERCIAL PURPOSE,
+      including but not limited to: offering it as a hosted service,
+      selling it, incorporating it into a commercial product, or using
+      it to compete with the Licensor's services.
+
+   b) REDISTRIBUTE the Software or any derivative work publicly.
+
+   c) SUBLICENSE the Software to any third party.
+
+   d) Remove or alter any copyright notices, license texts, or
+      attribution notices in the Software.
+
+   e) Use the "OBLIVION" name, logo, or trademarks without written
+      permission from the Licensor.
+
+4. CONTRIBUTIONS
+
+   By submitting bug reports, pull requests, or other contributions to
+   this repository, You grant the Licensor a perpetual, irrevocable,
+   worldwide, royalty-free license to use, modify, and incorporate Your
+   contributions into the Software under any license the Licensor
+   chooses.
+
+5. SECURITY AUDITING
+
+   The Licensor encourages responsible security research. If You discover
+   a security vulnerability, please report it to: admin@oblivionzone.com
+
+   The Licensor will acknowledge responsible disclosures publicly.
+
+6. COMMERCIAL LICENSING
+
+   For commercial use, hosting, or redistribution rights, contact:
+   admin@oblivionzone.com
+
+   Commercial licenses are available on a case-by-case basis.
+
+7. NO WARRANTY
+
+   THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+   EXPRESS OR IMPLIED. THE LICENSOR SHALL NOT BE LIABLE FOR ANY CLAIM,
+   DAMAGES, OR OTHER LIABILITY ARISING FROM THE USE OF THE SOFTWARE.
+
+8. TERMINATION
+
+   This License is effective until terminated. Your rights under this
+   License will terminate automatically if You fail to comply with any
+   of its terms.
+
+---
+
+Oblivion Technologies LLC
+30 N Gould St Ste R, Sheridan, WY 82801, USA
+https://oblivionsearch.com
+admin@oblivionzone.com
