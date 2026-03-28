@@ -1,0 +1,40 @@
+{
+  "extensionName": {
+    "message": "OBLIVION Search",
+    "description": "Name of the extension"
+  },
+  "extensionDescription": {
+    "message": "Moteur de recherche prive avec IA et detection des arnaques. Recherchez sur le web sans etre suivi.",
+    "description": "Description of the extension"
+  },
+  "commandOpenSearch": {
+    "message": "Ouvrir OBLIVION Search",
+    "description": "Keyboard shortcut description"
+  },
+  "contextMenuSearch": {
+    "message": "Rechercher sur OBLIVION \"%s\"",
+    "description": "Context menu search text",
+    "placeholders": {
+      "s": {
+        "content": "$1",
+        "example": "outils de confidentialite"
+      }
+    }
+  },
+  "contextMenuOpen": {
+    "message": "Ouvrir OBLIVION Search",
+    "description": "Context menu open text"
+  },
+  "searchPlaceholder": {
+    "message": "Rechercher en prive...",
+    "description": "Search input placeholder"
+  },
+  "privateSearches": {
+    "message": "Recherches privees",
+    "description": "Stats label"
+  },
+  "daysProtected": {
+    "message": "Jours proteges",
+    "description": "Stats label"
+  }
+}

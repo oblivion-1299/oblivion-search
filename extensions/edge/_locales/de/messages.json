@@ -1,0 +1,40 @@
+{
+  "extensionName": {
+    "message": "OBLIVION Search",
+    "description": "Name of the extension"
+  },
+  "extensionDescription": {
+    "message": "KI-gestuetzte private Suchmaschine mit Betrugserkennung. Durchsuchen Sie das Web ohne Tracking.",
+    "description": "Description of the extension"
+  },
+  "commandOpenSearch": {
+    "message": "OBLIVION Search oeffnen",
+    "description": "Keyboard shortcut description"
+  },
+  "contextMenuSearch": {
+    "message": "Mit OBLIVION nach \"%s\" suchen",
+    "description": "Context menu search text",
+    "placeholders": {
+      "s": {
+        "content": "$1",
+        "example": "Datenschutz-Tools"
+      }
+    }
+  },
+  "contextMenuOpen": {
+    "message": "OBLIVION Search oeffnen",
+    "description": "Context menu open text"
+  },
+  "searchPlaceholder": {
+    "message": "Privat suchen...",
+    "description": "Search input placeholder"
+  },
+  "privateSearches": {
+    "message": "Private Suchen",
+    "description": "Stats label"
+  },
+  "daysProtected": {
+    "message": "Tage geschuetzt",
+    "description": "Stats label"
+  }
+}
