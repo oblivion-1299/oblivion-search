@@ -1,8 +1,19 @@
 # OBLIVION Search
 
+![License](https://img.shields.io/badge/license-Source--Available-blue)
+![Products](https://img.shields.io/badge/products-25%2B-brightgreen)
+![Engines](https://img.shields.io/badge/search%20engines-246-00d4ff)
+![AI Models](https://img.shields.io/badge/AI%20models-15-7c3aed)
+![Privacy Score](https://img.shields.io/badge/privacy%20score-A%2B%20100%2F100-22c55e)
+![Uptime](https://img.shields.io/badge/uptime-99.9%25-success)
+
 **Privacy-first AI-powered search engine querying 246 engines simultaneously.**
 
-[Live Demo](https://oblivionsearch.com) | [Privacy Policy](https://oblivionsearch.com/privacy) | [About](https://oblivionsearch.com/about)
+[Live Demo](https://oblivionsearch.com) | [Privacy Policy](https://oblivionsearch.com/privacy) | [About](https://oblivionsearch.com/about) | [GitHub Issues](https://github.com/oblivion-1299/oblivion-search/issues)
+
+<p align="center">
+  <strong>Zero tracking. Zero cookies. Zero user profiles. 25+ products. All on one server.</strong>
+</p>
 
 ## What is OBLIVION?
 
